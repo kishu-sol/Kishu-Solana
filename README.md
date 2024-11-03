@@ -1,2 +1,2 @@
-# Kishu-Inu-Creative
+# Kishu-Inu-Creative-Solana
 Kishu Inu creative assets
