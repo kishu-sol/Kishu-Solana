@@ -1,6 +1,4 @@
 # Kishu-Inu-Creative-Solana
 Kishu Inu creative assets on solana
 
-Kishu, originally a beloved memecoin on the Ethereum blockchain, is proud to announce its new launch on Solana. This strategic expansion harnesses Solana's lightning-fast transaction speeds and minimal gas fees, providing users with an optimized experience for trading and holding.
-
-By bridging to Solana, Kishu maintains its core community values while introducing advanced features such as cross-chain interoperability and innovative staking rewards. This move not only enhances scalability but also fosters a more vibrant ecosystem for our passionate holders.
+Kishu is a fork of the original Kishu Inu on Ethereum, now adapted for the Solana blockchain. This version has been meticulously modified for compatibility with Solana’s architecture, allowing for faster transaction speeds and lower fees. By leveraging Solana’s innovative technology, Kishu aims to provide a seamless experience for memecoin enthusiasts, while retaining the community spirit and features that made the original project successful.
